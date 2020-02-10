@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StaticListView</string>
+    <string-array name="data">
+        <item>Noida</item>
+        <item>Kota</item>
+        <item>Varanasi</item>
+        <item>Sarnath</item>
+        <item>Basti</item>
+        <item>Mathura</item>
+        <item>Aligarh</item>
+        <item>Delhi</item>
+        <item>Bhiwani</item>
+        <item>Udhampur</item>
+        <item>Bulandshahar</item>
+        <item>Allahabad</item>
+        <item>Thanjavur</item>
+        <item>Baroda</item>
+        <item>Jamnagar</item>
+        <item>Shillong</item>
+        <item>Leh</item>
+        <item>Srinagar</item>
+
+    </string-array>
+
+
+</resources>
